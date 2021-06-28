@@ -7,7 +7,7 @@
 ## Table
 
 
-### [Hreni](#pidarsia)
+
 
 - [x] External Link
 - [x] Internal Link
@@ -30,15 +30,13 @@
 
 
 
-
-
-## [About me](#Link-to-images)
+[About me](#Link)
 
 
 
 
 
-## [Link to images](./images)
+## [Link](./images)
 
 
 
