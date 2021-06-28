@@ -1,5 +1,9 @@
 # Github Flavoured Markdown
 
+
+
+[Link to random task](#R)
+
 ## [External Link](https://help.github.com/en) 
 ## [Internal Link](./images/0408-2-orcas.jpg)
 ## [Images](./images/) 
@@ -24,6 +28,8 @@
 |Alex|Tokin|40|
 |John|Deer|50|
 
+
+<a id="R">Link</a>
 
 
 
