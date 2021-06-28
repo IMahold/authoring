@@ -5,3 +5,17 @@
 ## [Images](./images/) 
 ## Emojis
 ## Table
+
+-[ ] External Link
+
+-[ ] Internal Link
+
+-[ ] Images
+
+-[ ] Emojis
+
+-[ ] Table
+
+
+
+
