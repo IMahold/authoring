@@ -6,15 +6,15 @@
 ## Emojis
 ## Table
 
--[ ] External Link
+-[x] External Link
 
--[ ] Internal Link
+-[x] Internal Link
 
--[ ] Images
+-[x] Images
 
--[ ] Emojis
+-[x] Emojis
 
--[ ] Table
+-[x] Table
 
 
 
