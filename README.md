@@ -31,7 +31,7 @@
 
 <span id="R">Link</span>
 
-## Internal Link [CLICK HERE](./images/0408-2-orcas.jpg)
+## Internal Link [click here](./images/0408-2-orcas.jpg)
 
 
 
