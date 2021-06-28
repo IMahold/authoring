@@ -30,36 +30,6 @@
 
 ffdfdsfdfdhfdsgkjsdhfa kj
 ads fjadskj fkhdsa kjfads\
-asdfadsf sadf
-adsfasdfads f
- dsafa dsfadsfasdfffffffffffffffffff
- 
- fdsa a dsfasdf asd
- f dsafadssssssss
- 
- 
- 
- 
- 
- afdsadsfdsafadsfadsfdsafdas
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -76,8 +46,6 @@ adsfasdfads f
 
 
 
-## Images
-![Whales](./doc1/0408-2-orcas.jpg)
 
 
 ## [Link to images](./doc1)
