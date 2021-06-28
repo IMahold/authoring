@@ -29,7 +29,7 @@
 |John|Deer|50|
 
 
-<a id="R">Link</a>
+<span id="R">Link</span>
 
 
 
