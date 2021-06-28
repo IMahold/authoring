@@ -31,16 +31,14 @@
 
 
 
-## Pidarsia
 
-
-[About me](#Link-to-images)
+## [About me](#Link-to-images)
 
 
 
 
 
-## [Link to images](./doc1)
+## [Link to images](./images)
 
 
 
