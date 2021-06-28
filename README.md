@@ -2,6 +2,6 @@
 
 ## [External Link](https://help.github.com/en) 
 ## Internal Link
-## Images 
+## [Images](./images/) 
 ## Emojis
 ## Table
