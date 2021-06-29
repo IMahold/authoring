@@ -32,20 +32,3 @@
 <span id="R">Link</span>
 
 ## Internal Link [click here](./images/0408-2-orcas.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
